@@ -339,5 +339,10 @@
   "questMonkeyCompletion": "You did it! No bananas for those fiends today. Overwhelmed by your diligence, the monkeys flee in panic. \"Look,\" says @Misceo. \"They left a few eggs behind.\"<br><br>@Leephon grins. \"Maybe a well-trained pet monkey can help you as much as the wild ones hinder you!\"",
   "questMonkeyBoss": "Monstrous Mandrill",
   "questMonkeyDropMonkeyEgg": "Monkey (Egg)",
-  "questMonkeyUnlockText": "Unlocks purchasable Monkey eggs in the Market"
+  "questMonkeyUnlockText": "Unlocks purchasable Monkey eggs in the Market",
+
+  "questDustBunniesText": "bunny bunny bun",
+  "questDustBunniesNotes": "bunnies attack",
+  "questDustBunniesCompletion": "bunnies dusted",
+  "questDustBunniesBoss": "Feral Dust Bunnies"
 }
